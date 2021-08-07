@@ -4,4 +4,4 @@ from safeprint import Printer
 
 printer = Printer()
 
-print = printer.print
+print = print
